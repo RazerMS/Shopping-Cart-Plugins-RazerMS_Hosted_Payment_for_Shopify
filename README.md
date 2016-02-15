@@ -11,7 +11,7 @@ Use at your own risk. Please backup any critical data before proceeding. For any
 assistance, please email to support@molpay.com 
 
 
-Installations for Seamless Iframe
+Installations for Shopify Hosted Payment
 --------------------------
 
 - [Installation Guide](https://github.com/MOLPay/Hosted_Payment_for_Shopify/wiki/Hosted-Payment-for-Shopify-Guide)
