@@ -1,7 +1,7 @@
 Hosted Payment for Shopify
 =====================
 
-Hosted Payment for Shopify develop by MOLPay technical team.
+Hosted Payment for Shopify developed by MOLPay technical team.
 
 Notes
 -----
