@@ -1,5 +1,6 @@
 Hosted Payment for Shopify
 =====================
+![MOLPay Technical Teams](https://github.com/MOLPay/Prestashop_Plugin/wiki/images/molpay-developer.jpg)
 
 Hosted Payment for Shopify developed by MOLPay technical team.
 
