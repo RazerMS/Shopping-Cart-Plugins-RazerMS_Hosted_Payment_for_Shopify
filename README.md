@@ -3,7 +3,7 @@ Hosted Payment for Shopify
 
 ![shopify](https://user-images.githubusercontent.com/38641542/74416385-097a1e80-4e80-11ea-9bce-cc79fb9d9837.jpg)
 
-Hosted Payment for Shopify developed by MOLPay technical team.
+Hosted Payment for Shopify developed by Razer Merchant Services technical team.
 
 Notes
 -----
