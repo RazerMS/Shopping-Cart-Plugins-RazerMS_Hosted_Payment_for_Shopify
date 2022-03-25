@@ -5,7 +5,12 @@
 
 Hosted Payment for Shopify developed by Razer Merchant Services technical team.
 
-Notes
+Introduction
+-----
+
+This is Razer Merchant Services Shopify Plugin. Shopify is a complete commerce platform that lets you start, grow, and manage a business. The subscription-based software allows anyone to set up an online store and sell their products
+
+Notes / Prerequisite
 -----
 
 Razer Merchant Services is not responsible for any problems that might arise from the use of this module. 
@@ -13,7 +18,7 @@ Use at your own risk. Please backup any critical data before proceeding. For any
 assistance, please email to support-sa@razer.com 
 
 
-Installations for Shopify Hosted Payment
+Installations Guidance for Shopify Hosted Payment
 --------------------------
 
 - [Installation Guide](https://github.com/RazerMS/Hosted_Payment_for_Shopify_Plugin/wiki/Hosted-Payment-for-Shopify-Guide)
@@ -25,7 +30,7 @@ Issues
 Submit issue to this repository or email to our support-sa@razer.com
 
 
-Support
+Contact Support
 -------
 
 Merchant Technical Support / Customer Care : support-sa@razer.com <br>
