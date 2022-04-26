@@ -21,7 +21,8 @@ assistance, please email to support-sa@razer.com
 Installations Guidance for Shopify Hosted Payment
 --------------------------
 
-- [Installation Guide](https://github.com/RazerMS/Hosted_Payment_for_Shopify_Plugin/wiki/Hosted-Payment-for-Shopify-Guide)
+<!-- - [Installation Guide](https://github.com/RazerMS/Hosted_Payment_for_Shopify_Plugin/wiki/Hosted-Payment-for-Shopify-Guide) (Old) -->
+- [Installation Guide](https://github.com/RazerMS/Shopping-Cart-Plugins-RazerMS_Hosted_Payment_for_Shopify/wiki/Hosted-Payment-for-Shopify-Guide-(V2)) ( V2 - Latest )
 
 
 ## Resources
