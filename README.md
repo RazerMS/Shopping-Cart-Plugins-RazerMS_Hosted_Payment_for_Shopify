@@ -1,4 +1,4 @@
-[Shopping Cart Plugins] – RazerMS Hosted Payment for Shopify
+[Shopping Cart Plugins] – RazerMS Shopify Payment App
 =====================
 
 ![shopify](https://user-images.githubusercontent.com/38641542/74416385-097a1e80-4e80-11ea-9bce-cc79fb9d9837.jpg)
@@ -18,7 +18,7 @@ Use at your own risk. Please backup any critical data before proceeding. For any
 assistance, please email to support-sa@razer.com 
 
 
-Installations Guidance for Shopify Hosted Payment
+Installations Guidance for Shopify Payment App
 --------------------------
 
 <!-- - [Installation Guide](https://github.com/RazerMS/Hosted_Payment_for_Shopify_Plugin/wiki/Hosted-Payment-for-Shopify-Guide) (Old) -->
