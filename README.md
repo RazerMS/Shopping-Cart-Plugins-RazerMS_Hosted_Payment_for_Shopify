@@ -42,8 +42,10 @@ Issues
 
 > Shopify recently has updated their GraphQL and REST API policy. As a result, we are not able to access order object
 > related to the user payment, rendering us not able to provide our merchants the reference number and customer's mobile
-> number. We deeply apologize for any inconvenience caused by this.
->
+> number.
+> 
+> However your Shopify orders will still be processed as  normal just not able to fulfill some advanced requirement.
+> 
 > Kindly refer to their response to our queries:
 ![image](https://user-images.githubusercontent.com/2503209/191220011-85a93bbb-15b9-46d3-9083-78badabfe247.png)
 
