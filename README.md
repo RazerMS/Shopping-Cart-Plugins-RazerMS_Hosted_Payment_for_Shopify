@@ -38,8 +38,16 @@ Installations Guidance for Shopify Payment App
 Issues
 ------------
 
-Submit issue to this repository or email to our support-sa@razer.com
+# Breaking changes (August 2022)
 
+> Shopify recently has updated their GraphQL and REST API policy. As a result, we are not able to access order object
+> related to the user payment, rendering us not able to provide our merchants the reference number and customer's mobile
+> number. We deeply apologize for any inconvenience caused by this.
+>
+> Kindly refer to their response to our queries:
+![image](https://user-images.githubusercontent.com/2503209/191220011-85a93bbb-15b9-46d3-9083-78badabfe247.png)
+
+You can also submit an issue to this repository or email to our support-sa@razer.com
 
 Contact Support
 -------
